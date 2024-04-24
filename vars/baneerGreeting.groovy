@@ -1,3 +1,3 @@
 def call() {
-  sh 'Welcome to Uptime Career'
+  sh 'echo Welcome to Uptime Career'
 }
